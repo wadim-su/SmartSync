@@ -1,0 +1,15 @@
+http://msdn.microsoft.com/en-us/library/0c6xyb66(VS.80).aspx
+http://msdn.microsoft.com/en-us/library/ms171452.aspx
+http://www.visualstudio.com/en-us/explore/explore-vside-vsi.aspx
+http://stackoverflow.com/questions/2628914/integrating-a-custom-compiler-with-the-visual-studio-ide
+https://social.msdn.microsoft.com/Forums/vstudio/en-US/d4434848-6a87-449a-a595-d91ff0fd23b5/integrate-a-custom-compilerlinker-in-visual-studio?forum=vsx
+http://msdn.microsoft.com/en-us/library/hefydhhy.aspx
+google: how to custom compiler in visual studio
+
+
+
+http://msdn.microsoft.com/ru-ru/library/dd293663.aspx
+http://msdn.microsoft.com/ru-ru/library/e85wte0k.aspx
+http://stackoverflow.com/questions/3686837/why-are-my-custom-build-steps-not-running-in-visual-studio-2010
+http://msdn.microsoft.com/en-us/library/vstudio/dd293663(v=vs.100).aspx
+google: custom build step visual studio 2010
